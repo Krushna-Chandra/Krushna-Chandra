@@ -26,7 +26,7 @@ krushnachandrabindhani952@gmail.com
 </p>
 <a href="https://www.facebook.com/share/15n8iGVhwk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Krushna Chandra Bindhani" height="30" width="40" /></a>
 <a href="https://www.instagram.com/krushna__chandra_bindhani?igsh=MXNqNG8zeXExeW9sYw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Krushna Chandra Bindhani" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Krushna-Chandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Krushna-Chandra" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/geQ6EURkft/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Krushna-Chandra-Bindhani" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/krushnachandr9fc9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="krushnachandr9fc9" height="30" width="40" /></a>
 </p>
 
