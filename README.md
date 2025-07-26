@@ -9,7 +9,7 @@
 Web projects
 
 **💬 Ask me about :**<br>
-JavaScript,java and any software development question.
+Python, Basics in JavaScript & java and any software development question.
 
 **📫 How to reach me :**<br>
 krushnachandrabindhani952@gmail.com
