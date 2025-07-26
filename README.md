@@ -3,7 +3,7 @@
  
 # 💫 About Me :
 **🔭 I’m currently working on :**<br>
- DSA
+ PYTHON and DATA SCIENCE with "code with harry".
 
 **👯 I’m looking to collaborate on :**<br>
 Web projects
